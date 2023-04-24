@@ -1,28 +1,27 @@
 import React from 'react';
+import './Page1.css';
+import mavsLogo from '../assets/mavs-logo.png';
+import bullsLogo from '../assets/bulls-logo.png';
 
 const Page1 = () => {
-  const names = [
-    'John',
-    'Michael',
-    'William',
-    'David',
-    'Richard',
-    'Charles',
-    'Joseph',
-    'Thomas',
-    'Christopher',
-    'Daniel',
+  const images = [
+    // Add your image objects with title and src properties here
+    { title: 'Mavericks', src: mavsLogo },
+    { title: 'Bulls', src: bullsLogo },
   ];
 
   return (
-    <div>
-      <h2>Names of Men at Age 30</h2>
-      <ul>
-        {names.map((name, index) => (
-          <li key={index}>{name}</li>
-        ))}
-      </ul>
-    </div>
+      <div className="container">
+        <h2>Gallery</h2>
+        <div className="image-grid">
+          {images.map((image, index) => (
+              <div key={index} className="image-container">
+                <h3>{image.title}</h3>
+                <img src={image.src} alt={image.title} />
+              </div>
+          ))}
+        </div>
+      </div>
   );
 };
 
