@@ -1,0 +1,1313 @@
+[
+  {
+    "name": "Oren",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+,
+  {
+    "name": "Player 2",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+,
+  {
+    "name": "Player 3",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+,
+  {
+    "name": "Player 4",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+,
+  {
+    "name": "Player 5",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+,
+  {
+    "name": "Player 6",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+,
+  {
+    "name": "Player 7",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+,
+  {
+    "name": "Player 8",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+,
+  {
+    "name": "Player 9",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+,
+  {
+    "name": "Player 10",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+,
+  {
+    "name": "Player 11",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+,
+  {
+    "name": "Player 12",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+,
+  {
+    "name": "Player 13",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+,
+  {
+    "name": "Player 14",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+,
+  {
+    "name": "Player 15",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+,
+  {
+    "name": "Player 16",
+    "bets": [
+      {
+        "series": "Nuggets vs Timberwolves",
+        "winner": "Nuggets",
+        "games": 4
+      },
+      {
+        "series": "Lakers vs Grizzlies",
+        "winner": "Lakers",
+        "games": 6
+      },
+      {
+        "series": "Warriors vs Kings",
+        "winner": "Warriors",
+        "games": 6
+      },
+      {
+        "series": "Suns vs Clippers",
+        "winner": "Suns",
+        "games": 6
+      },
+      {
+        "series": "Nuggets vs Suns",
+        "winner": "Nuggets",
+        "games": 7
+      },
+      {
+        "series": "Warriors vs Lakers",
+        "winner": "Warriors",
+        "games": 5
+      },
+      {
+        "series": "Warriors vs Nuggets",
+        "winner": "Warriors",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Heat",
+        "winner": "Bucks",
+        "games": 5
+      },
+      {
+        "series": "Celtics vs Hawks",
+        "winner": "Celtics",
+        "games": 5
+      },
+      {
+        "series": "76ers vs Nets",
+        "winner": "76ers",
+        "games": 5
+      },
+      {
+        "series": "Cleveland vs NY",
+        "winner": "Cleveland",
+        "games": 6
+      },
+      {
+        "series": "Bucks vs Cleveland",
+        "winner": "Bucks",
+        "games": 6
+      },
+      {
+        "series": "Celtics vs 76ers",
+        "winner": "Celtics",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Celtics",
+        "winner": "Bucks",
+        "games": 7
+      },
+      {
+        "series": "Bucks vs Warriors",
+        "winner": "Bucks",
+        "games": 6,
+        "MVP": "The Greek Freak"
+      }
+    ]
+  }
+]

@@ -1,11 +1,15 @@
 .button-layout {
     display: grid;
+    padding-left: 150px;
+    padding-top: 100px;
     grid-template-columns: repeat(2, 1fr);
-    grid-gap: 10px;
+    grid-gap: 40px;
+    width: 70%;
   }
   
   .medium-button {
-    width: 100%;
+    width: 70%;
+    height: 180%;
     padding: 10px;
     font-size: 16px;
     cursor: pointer;

@@ -1,0 +1,28 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #fff;
+}
+
+.title {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.text {
+    font-size: 16px;
+    white-space: pre-line; /* To preserve line breaks */
+    text-align: justify;
+    padding: 0 20px; /* Adjust padding as needed */
+}
+
+.resize {
+    width: 100px;
+    height: 100px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 40px;
+}
